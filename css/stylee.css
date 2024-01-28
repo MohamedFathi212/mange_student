@@ -1,0 +1,77 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Tajawal', sans-serif;
+}
+
+.parent {
+    width: 100%;
+   font-size: 20px;
+   
+}
+
+input {
+    border: 2px solid black;
+    width: 150px;
+    text-align: center;
+    font-family:'Tajawal', sans-serif;
+    font-size: 20px;
+}
+
+main {
+   float: left;
+   border: 2px solid gray;
+   padding: 5px;
+   text-align: center;
+}
+
+aside {
+    text-align: center;
+    border: 1px solid black;
+    width: 300px;
+    float: right;
+    padding: 10px;
+    font-size: 20px;
+    background-color: silver;
+    color: white;
+}
+
+.tbl {
+    width:700px;
+    font-size: 20px;
+}
+
+.tbl:hover {
+    background-color: white;
+}
+
+.tbl th {
+    background-color: rgb(179, 173, 173);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 800px;
+    color: black;
+    
+}
+
+aside button {
+    width: 200px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}
+
+aside button:hover{
+    color: red;
+}
+
+aside img {
+    width: 250px;
+    height: 200px;
+    border: 50%;
+}
+
+
+
+
+    
+
